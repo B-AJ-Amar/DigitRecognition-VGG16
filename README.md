@@ -15,7 +15,7 @@ This project involves fine-tuning the VGG16 model for digit recognition. Additio
 
 
 ## Technlogies
-[![My Skills](https://skillicons.dev/icons?theme=light&i=tensorflow,flask)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?theme=light&i=tensorflow,flask)]()
 
 
 ## Features
