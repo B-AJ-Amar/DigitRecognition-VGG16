@@ -1,0 +1,12 @@
+#drawingCanvas {
+    border: 1px solid #000;
+    cursor: crosshair;
+    width: 320px;  /* Visually scale up the canvas */
+    height: 320px; /* Visually scale up the canvas */
+    image-rendering: pixelated; /* Keep pixels sharp */
+}
+
+#result {
+    font-size: 1.25rem;
+    font-weight: bold;
+}
